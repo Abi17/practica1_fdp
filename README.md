@@ -1,1 +1,1 @@
-practica número uno, fundamentos de programación. 
+Practica número uno, fundamentos de programación. 
